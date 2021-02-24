@@ -1,2 +1,2 @@
-# Data-bootcamp-projects
+# Data-projects
 Collection of personal projects
